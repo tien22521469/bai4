@@ -161,7 +161,7 @@ namespace bai4
 
         private void lblnhap_ControlAdded(object sender, ControlEventArgs e)
         {
-
+//dkafejiew
         }
     }
 }
